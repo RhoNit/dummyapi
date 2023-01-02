@@ -2,10 +2,13 @@
   🏷️ Book API
 </h1>
 
-<p align="center"> A basic REST API using Spring Boot </p>
+<p align="center"> 👀 A basic REST API using Spring Boot </p>
 
 <br>
 
+## 🛰 Project Architecture
+![](./book-api-architecture.png "Architecture")
+<br>
 
 ## 📦 Tools and Tech Stack
 * Spring Boot
@@ -132,4 +135,12 @@ RESPONSE: HTTP 200 (Ok)
 Location header: http://localhost:8080/books
 ```
 
-###
+<br>
+## 🛢️ Database Schema
+![](./postgres-books.png "DB Table")
+<br>
+
+## 🎯 Bullseye (Building a Docker Imange and Publishing to Docker Hub)
+- Tried to Dockerize the application
+- But facing some issues
+- Working on it
