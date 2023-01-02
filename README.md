@@ -134,8 +134,8 @@ RESPONSE: HTTP 200 (Ok)
 ]
 Location header: http://localhost:8080/books
 ```
-
 <br>
+
 ## 🛢️ Database Schema
 ![](./postgres-books.png "DB Table")
 <br>
