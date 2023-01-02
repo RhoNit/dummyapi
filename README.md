@@ -140,7 +140,7 @@ Location header: http://localhost:8080/books
 ![](./postgres-books.png "DB Table")
 <br>
 
-## 🎯 Bullseye (Building a Docker Imange and Publishing to Docker Hub)
+## 🎯 Bullseye (trying to build a Docker Image and to push that to Docker Hub)
 - Tried to Dockerize the application
 - But facing some issues
 - Working on it
