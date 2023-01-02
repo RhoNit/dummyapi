@@ -11,6 +11,7 @@ import java.util.List;
 public class BookService {
     @Autowired
     private BookRepository bookRepository;
+    
     public List<Book> getAllBooks() {
         List<Book> list = (List<Book>) this.bookRepository.findAll();
         return list;
